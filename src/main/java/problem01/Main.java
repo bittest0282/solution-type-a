@@ -20,7 +20,9 @@ public class Main {
 		}
 	}
 	
-	public static int countClap(int number) {
-		return 0;
+	public static int countClap(int number) { // 이것 만 수정
+
+			
+		return number;
 	}
 }

@@ -13,6 +13,6 @@ public class MusicPhone extends Phone {
 	}
 
 	public String playMusic() {
-		return "MP3재생";
+		return "스트리밍";
 	}
 }
